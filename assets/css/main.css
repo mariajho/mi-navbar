@@ -24,7 +24,7 @@ ul li a {
 }
 
 li a:hover, .dropdown:hover, .dropbtn:hover{
-	backgroun-color: #FFE900;
+	background-color: #FFE900;
 	color: #333;
 }
 
